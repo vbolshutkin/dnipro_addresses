@@ -5,5 +5,4 @@ rename.json
 openaddr.json
 *.csv
 *.pbf
-addrs.js
 *.zip
