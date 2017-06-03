@@ -1,0 +1,9 @@
+node_modules
+osmosis
+openaddr
+rename.json
+openaddr.json
+*.csv
+*.pbf
+addrs.js
+*.zip
